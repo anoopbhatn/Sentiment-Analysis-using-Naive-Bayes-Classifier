@@ -4,7 +4,7 @@ A Python code to classify the sentiment of a text to positive or negative
 This repository contains two sub directories:
 1. Source
 2. Datasets
-3. Test Cases
+3. Test_Cases
 
 ***********************************************************************************
 
@@ -12,7 +12,7 @@ Source contains the source code along with the dataset that the code uses.
 
 Datasets contains few datasets that were used while writing the code.
 
-Test Cases contains few test cases for which the input was tested.
+Test_Cases contains few test cases for which the input was tested.
 
 
 ************************************************************************************
